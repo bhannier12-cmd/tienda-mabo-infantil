@@ -1,2 +1,2 @@
-# tienda-mano-infantil
+# tienda-mabo-infantil
 Tienda de artículos de bebe
